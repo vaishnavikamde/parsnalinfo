@@ -1,2 +1,2 @@
 # parsnalinfo
-authior : vaishnavi kamde
+author : vaishnavi kamde
